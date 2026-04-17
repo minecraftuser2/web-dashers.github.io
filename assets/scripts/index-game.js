@@ -4158,7 +4158,7 @@ class xs extends Phaser.Scene {
     this._downloadBtns = [];
     const _0x4fc67f = [{
       key: "downloadSteam_001",
-      url: "https://github.com/web-dashers/web-dashers.github.io"
+      url: "https://github.com/minecraftuser2/web-dashers.github.io"
     },
     {
       key: "downloadApple_001",
@@ -5180,7 +5180,8 @@ this._escKey.on("down", () => {
         "level_19":        "diffIcon_04_btn_001",
         "level_20":        "diffIcon_06_btn_001",
         "level_21":        "diffIcon_05_btn_001",
-        "level_22":        "diffIcon_05_btn_001",
+        "level_22":		   "diffIcon_05_btn_001",
+		"level_23":		   "diffIcon_05_btn_001",
         "level_99":        "diffIcon_10_btn_001",
         "level_100":       "diffIcon_10_btn_001",
         "level_137409445": "diffIcon_00_btn_001",
